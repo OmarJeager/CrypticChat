@@ -1,0 +1,10 @@
+C:\Eren\.Net\SecureTalk\SecureTalk\obj\Debug\SecureTalk.csproj.AssemblyReference.cache
+C:\Eren\.Net\SecureTalk\SecureTalk\obj\Debug\SecureTalk.Properties.Resources.resources
+C:\Eren\.Net\SecureTalk\SecureTalk\obj\Debug\SecureTalk.csproj.GenerateResource.cache
+C:\Eren\.Net\SecureTalk\SecureTalk\obj\Debug\SecureTalk.csproj.CoreCompileInputs.cache
+C:\Eren\.Net\SecureTalk\SecureTalk\bin\Debug\SecureTalk.exe.config
+C:\Eren\.Net\SecureTalk\SecureTalk\bin\Debug\SecureTalk.exe
+C:\Eren\.Net\SecureTalk\SecureTalk\bin\Debug\SecureTalk.pdb
+C:\Eren\.Net\SecureTalk\SecureTalk\obj\Debug\SecureTalk.Form1.resources
+C:\Eren\.Net\SecureTalk\SecureTalk\obj\Debug\SecureTalk.exe
+C:\Eren\.Net\SecureTalk\SecureTalk\obj\Debug\SecureTalk.pdb
